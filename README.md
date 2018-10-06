@@ -24,4 +24,4 @@ For this project, you’ll create a drawing of an animal using the `p5` JavaScri
 6. Issue your pull request before the deadline. See below.
 
 ## Submission
-Submit this project by issuing a pull request to the original repo *by 4:40 PM on Saturday, 27 October 2018*. Also note, per the syllabus, **no** late work will be accepted, and this project may **only** be submitted via GitHub.
+Submit this project by issuing a pull request to the original repo *by 4:40 PM on Saturday, 3 November 2018*. Also note, per the syllabus, **no** late work will be accepted, and this project may **only** be submitted via GitHub.
